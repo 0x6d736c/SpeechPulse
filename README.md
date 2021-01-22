@@ -1,4 +1,4 @@
-# Sentido
+# Speech Pulse (originally developed under name SENTIDO)
 ## A Java-language Sentiment Analyzer for Speeches | WORK IN PROGRESS
 
 ### How to Use: (README a work-in-progress | super quick start follows)
